@@ -1,3 +1,4 @@
+### Jaipal Bishnoi | Mcdonald Pelz | India
 # CryptoList
 Curated collection of blockchain &amp; cryptocurrency links.
 
@@ -11,10 +12,6 @@ Curated collection of blockchain &amp; cryptocurrency links.
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/newsletter.svg?sanitize=true">](https://club.coinpride.com/)
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/telegram_join.svg?sanitize=true">](https://t.me/join_cht)
 
-# Grand Sponsor
-CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketplace of cryptocurrency domains, websites and social profiles. Buy and sell rare items for free.
-
-[<img src="https://github.com/coinpride/CryptoList/blob/master/sponsors/opencrypto.png?raw=true" width="450">](https://opencrypto.space/)
 
 # Contents
 - [Media](#media)
@@ -360,16 +357,3 @@ invest in cryptocurrency.
 * [bfgminer](https://github.com/luke-jr/bfgminer) - Multi-threaded miner for ASICs built in C.
 # Games
 * [CryptoKitties](https://www.cryptokitties.co/) - Collect, breed and trade rare kitties in one of the world's first blockchain games. 
-# Sponsors
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/opencrypto_sponsor.png?sanitize=true">](https://opencrypto.space/)
-
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
-
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png?sanitize=true">](https://www.findbitcoinatm.com.au/)
-
-[<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly_list.png">](https://cryptoweekly.co/list/?ref=coinpride)
-
-# Contribute
-Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
-# License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
